@@ -1,40 +1,23 @@
-<p align="center"><a href="https://github.com/reggaesharkk/Reggae-shark-universe-"><img src="https://raw.githubusercontent.com/reggaesharkk/Reggae-shark-universe-/main/assets/universe_bar.svg" alt="Reggae Shark Universe — public research map" width="100%" /></a></p>
+# STRENGTH B3 — repository scope
 
-<p align="center"><a href="https://github.com/reggaesharkk/Reggae-shark-universe-">Public research map</a> &nbsp;·&nbsp; <a href="https://github.com/reggaesharkk?tab=repositories">All public repositories</a> &nbsp;·&nbsp; <a href="https://orcid.org/0009-0002-1170-4487">ORCID</a></p>
+**Status:** research record only. This repository does not contain a deployable network firewall.
 
-> I keep each project’s evidence, scope, and open questions alongside the work.
+## What is in this repository
 
----
+The current tree contains a README, a license, and a static challenge target JSON file. It does not contain an executable interceptor, a model or training pipeline, saved checkpoints, evaluation data, packet capture, socket processing, or firewall integration. The JSON target is configuration data; it is not a runtime result.
 
-# STRENGTH Framework: Branch B3 Multiscale Socket Interceptor
-**Author:** Prince Upadhyay  
-**Substrate Optimization:** Windows ARM64 (Qualcomm Snapdragon X Oryon)  
-**Classification:** Autonomous In-Memory Causal Intervention Firewall  
+The related [Strength Intent · Lean repository](https://github.com/reggaesharkk/strength-intent-ns-lean) contains a small Python/NumPy and C++ recurrent forward-step prototype plus narrowly scoped Lean statements. That code is not connected to network traffic or a production security boundary.
 
-I am developing this as a Windows ARM64 prototype. The notes below describe the design and checks recorded for this branch.
+## Claims corrected
 
-## 🔬 Core Technological Innovation
+Earlier versions of this page described an autonomous in-memory firewall, a bit-perfect architectural moat, hardware validation, and a +59.9168% H4 information-gain premium. The files in this repository do not substantiate those claims, so they are withdrawn here. The former 50% knockout figure is a modeled chance baseline, not an independently validated security guarantee.
 
-I am testing an alternative to signature-based pattern matching that I call **Behavioral Topology De-coupling**. My working hypothesis is that joint tracking loops can interfere under noisy thresholds; the results here describe this prototype, not every network security system. 
+The confirmatory H4 incremental-predictive-value claim remains open. This repository contains no source, dataset, checkpoints, or analysis that can reproduce an H4 result. Do not cite this repository as evidence of a trained model, an H4 finding, or a production security capability.
 
-In this prototype, I split the hidden recurrent spaces with a block-diagonal partition to test whether it reduces that interference:
+## Evidence needed for a stronger claim
 
-1. **Fast Timescale Group (16 Hidden Dimensions):** Absorbs volatile, high-variance non-linear input trajectories natively without accumulating deep temporal history.
-2. **Slow Timescale Group (16 Reservoir Dimensions):** Structurally locked to a bit-perfect Identity Matrix floor to protect long-horizon verification signals from exponential background decay.
+A future release would need to include or identify the exact implementation, training and evaluation protocol, checkpoint provenance, data and split definitions, reproducible metrics, and independent review. Any deployment claim would also need a threat model and tests against the actual network integration.
 
-### 🛡️ The Causal Intervention Engine
+## Rights
 
-I compute Jacobian-vector alignment scores in memory. When adversarial cosine falls below zero, my **H2 Hidden-State Reset Knockout Switch** sets the transient vectors to zero mid-forward pass. The $50\%$ figure is the modeled chance baseline for this prototype, not an independently validated security guarantee.
-
-## 🚀 Technical Specifications & Verification Status
-
-* **Gradient Crossover Leakage:** 0.000000 (Bit-Perfect Architectural Moat)
-* **Execution Footprint:** Zero-Cost Stateless RAM Only (No local disk degradation)
-* **Dependency Matrix:** Pure Python/NumPy
-* **H4 Incremental Information Gain Premium:** +59.9168% Verified
-* **Workspace Status:** Authenticated, hardware-validated, and 100% clean of Git branch contamination.
-
-## ⚖️ Commercial Licensing Restrictions
-
-Copyright © 2026 by Prince Upadhyay. All rights reserved. 
-This software module and its underlying multiscale block-diagonal parameters are proprietary assets. Unauthorized duplication, reverse engineering, or training replication without an explicit enterprise site license signed by Prince Upadhyay is strictly prohibited.
+See [LICENSE.md](LICENSE.md) for the terms that apply to this repository.
